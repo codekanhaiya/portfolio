@@ -23,7 +23,7 @@ Explore projects that demonstrate my expertise in frontend development and probl
 
 ## 🔗 Live Demo  
 Check out the live portfolio site with sleek UI and responsive design:  
-[🌐 View Live Portfolio](https://codekanhaiya.github.io/portfolio)
+[🌐 View Live Portfolio](http://officialkanha.epizy.com/)
 
 ---
 
